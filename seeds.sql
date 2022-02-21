@@ -13,7 +13,7 @@ INSERT INTO role (title, salary, department_id)
   ("Operator-2", 70000.00, 2),
   ("Shift-Lead", 80000.00, 2),
   ("Shift-Supervisor", 900000.00, 2),
-  ("Human-Resources", 65000.00, 2),
+  ("Human-Resources", 65000.00, 3),
   ("Accountant", 50000.00, 4),               
   ("Senior Accountant", 80000.00, 4),    
 
